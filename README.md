@@ -1,2 +1,2 @@
-# CC-Internship
+Basic_Python_Projects
  
